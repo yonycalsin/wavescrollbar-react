@@ -2,7 +2,7 @@
 [1]: https://github.com/yonicb/wavescrollbar-react
 
 <p align="center">
-  <a href="https://github.com/yonicb/wavescrollbar-react" target="blank"><img src="https://i.ibb.co/0KhDcfW/ezgif-1-368d1a644eb7.png" width="120" alt="Wavescrollbar Logo" /></a>
+  <a href="https://github.com/yonicb/wavescrollbar-react" target="blank"><img src="https://i.ibb.co/JcmsdJW/logo-react.png" width="120" alt="Wavescrollbar Logo" /></a>
 </p>
 
 <p align="center">
