@@ -1,0 +1,43 @@
+{
+   "name": "wavescrollbar-react",
+   "version": "1.0.0",
+   "dependencies": {
+      "wavescrollbar": "^1.0.2"
+   },
+   "peerDependencies": {
+      "react": "^16.12.0",
+      "react-dom": "^16.12.0",
+      "react-scripts": "3.2.0"
+   },
+   "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+   },
+   "eslintConfig": {
+      "extends": "react-app"
+   },
+   "description": "🚀 Wavescrollbar React 🎸 is a javascript library, which adds modern progress bar at the top.",
+   "main": "src/wavescrollbar-react.js",
+   "types": "index.d.ts",
+   "keywords": [
+      "scrollbar",
+      "progressbar",
+      "waves",
+      "wavescrollbar",
+      "wavescrollbar-react",
+      "react scroll",
+      "scroll js"
+   ],
+   "author": "Yoni Calsin <helloyonicb@gmail.com>",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/yonicb/wavescrollbar-react"
+   },
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/yonicb/wavescrollbar-react/issues"
+   },
+   "homepage": "https://github.com/yonicb/wavescrollbar-react#readme"
+}

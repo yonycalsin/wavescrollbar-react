@@ -1,0 +1,22 @@
+*, *:before, *:after {
+   box-sizing: border-box;
+}
+html, body {
+   margin: 0;
+   padding: 0;
+   color: #444;
+   font-family: "Segoe Ui", sans-serif;
+   font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-weight: 100;
+   margin: 0;
+}
+.container {
+   max-width: 90%;
+   margin: 10px auto;
+}
+p {
+   font-size: 20px;
+}
