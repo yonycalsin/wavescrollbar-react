@@ -30,14 +30,14 @@
       "react scroll",
       "scroll js"
    ],
-   "author": "Yoni Calsin <helloyonicb@gmail.com>",
+   "author": "Yony Calsin",
    "repository": {
       "type": "git",
-      "url": "https://github.com/yonicb/wavescrollbar-react"
+      "url": "https://github.com/yonycalsin/wavescrollbar-react"
    },
    "license": "MIT",
    "bugs": {
-      "url": "https://github.com/yonicb/wavescrollbar-react/issues"
+      "url": "https://github.com/yonycalsin/wavescrollbar-react/issues"
    },
-   "homepage": "https://github.com/yonicb/wavescrollbar-react#readme"
+   "homepage": "https://github.com/yonycalsin/wavescrollbar-react#readme"
 }
