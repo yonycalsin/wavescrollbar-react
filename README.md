@@ -1,27 +1,27 @@
-[2]: https://github.com/yonicb
-[1]: https://github.com/yonicb/wavescrollbar-react
+[2]: https://github.com/yonycalsin
+[1]: https://github.com/yonycalsin/wavescrollbar-react
 
 <p align="center">
-  <a href="https://github.com/yonicb/wavescrollbar-react" target="blank"><img src="https://i.ibb.co/JcmsdJW/logo-react.png" width="120" alt="Wavescrollbar Logo" /></a>
+  <a href="https://github.com/yonycalsin/wavescrollbar-react" target="blank"><img src="https://i.ibb.co/JcmsdJW/logo-react.png" width="120" alt="Wavescrollbar Logo" /></a>
 </p>
 
 <p align="center">
 🚀 Wavescrollbar React 🌐 is a javascript library, which adds modern progress bar at the top.
 </p>
 <p align="center" style="max-width: 450px; margin: auto;">
-   <a href="https://github.com/yonicb/wavescrollbar-react"><img src="https://img.shields.io/spiget/stars/1000?color=brightgreen&label=Star&logo=github" /></a>
+   <a href="https://github.com/yonycalsin/wavescrollbar-react"><img src="https://img.shields.io/spiget/stars/1000?color=brightgreen&label=Star&logo=github" /></a>
    <a href="https://www.npmjs.com/wavescrollbar-react" target="_blank">
    <img src="https://img.shields.io/npm/v/wavescrollbar-react" alt="NPM Version" /></a>
    <a href="https://www.npmjs.com/wavescrollbar-react" target="_blank">
    <img src="https://img.shields.io/npm/l/wavescrollbar-react" alt="Package License" /></a>
    <a href="https://www.npmjs.com/wavescrollbar-react" target="_blank">
    <img src="https://img.shields.io/npm/dm/wavescrollbar-react" alt="NPM Downloads" /></a>
-   <a href="https://github.com/yonicb/wavescrollbar-react" target="_blank">
+   <a href="https://github.com/yonycalsin/wavescrollbar-react" target="_blank">
    <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_95.svg" alt="Coverage" /></a>
-   <a href="https://github.com/yonicb/wavescrollbar-react"><img src="https://img.shields.io/badge/Github%20Page-Wavescrollbar-yellow?style=flat-square&logo=github" /></a>
-   <a href="https://github.com/yonicb"><img src="https://img.shields.io/badge/Author-Yoni%20Calsin-blueviolet?style=flat-square&logo=appveyor" /></a>
-   <a href="https://twitter.com/yonicb" target="_blank">
-   <img src="https://img.shields.io/twitter/follow/yonicalsin.svg?style=social&label=Follow"></a>
+   <a href="https://github.com/yonycalsin/wavescrollbar-react"><img src="https://img.shields.io/badge/Github%20Page-Wavescrollbar-yellow?style=flat-square&logo=github" /></a>
+   <a href="https://github.com/yonycalsin"><img src="https://img.shields.io/badge/Author-Yony%20Calsin-blueviolet?style=flat-square&logo=appveyor" /></a>
+   <a href="https://twitter.com/yonycalsin" target="_blank">
+   <img src="https://img.shields.io/twitter/follow/yonycalsin.svg?style=social&label=Follow"></a>
 </p>
 
 ## 🌐 Description
@@ -182,25 +182,16 @@ wavescrollbar.setHeight(height)
 
 ## ⭐ Support for
 
-Wavescrollbar is an open source project licensed by [MIT](LICENSE). You can grow thanks to the sponsors and the support of the amazing sponsors. If you want to join them, [contact me here](mailto:helloyonicb@gmail.com).
-
-## 🎩 Contributors
-
-<p>
-
-[<img src="https://avatars0.githubusercontent.com/u/58490737?s=400&v=4" alt="Yoni Stack" width="50" style="background: #fff; padding: 5px; border-radius: 50%;" />](https://github.com/yonicb)
-[<img src="https://avatars0.githubusercontent.com/u/57115324?s=460&v=4" alt="Yoni Stack" width="50" style="background: #fff; padding: 5px; border-radius: 50%;" />](https://github.com/yonicalsin)
-
-</p>
+Wavescrollbar is an open source project licensed by [MIT](LICENSE). You can grow thanks to the sponsors and the support of the amazing sponsors. If you want to join them, [contact me here](https://twitter.com/yonycalsin).
 
 ## 🎩 Stay in touch
 
-* Author [Yoni Calsin](https://github.com/yonicb)
-* Twitter [Yoni Calsin](https://twitter.com/yonicalsin)
+* Author [Yony Calsin](https://github.com/yonycalsin)
+* Twitter [Yony Calsin](https://twitter.com/yonycalsin)
 
 ## 📜 License
 
 Wavescrollbar is [MIT licensed](LICENSE).
 
-[2]: https://github.com/yonicb
-[1]: https://github.com/yonicb/wavescrollbar-react
+[2]: https://github.com/yonycalsin
+[1]: https://github.com/yonycalsin/wavescrollbar-react
