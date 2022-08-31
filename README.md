@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/twitter/follow/yonycalsin.svg?style=social&label=Follow"></a>
 </p>
 
-## 🌐 Description
+## Description
 
 <p>
 Wavescrollbar is a library to create a modern, efficient and scalable scroll bar. It uses modern JavaScript, is built with TypeScript (retains compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming).
@@ -32,12 +32,12 @@ Wavescrollbar is a library to create a modern, efficient and scalable scroll bar
 
 <p>Under the hood, Wavescrollbar uses javascript, but also provides compatibility with a wide range of other libraries, such as p. Eg ReactJs, Vuejs, Angular, which allows easy use of the countless third-party add-ons that are available.</p>
 
-## 📝 Philosophy
+## Philosophy
 
 <p>Wavescrollbar aims to provide a ready-to-use application architecture that allows effortless creation of applications with progress bar at the top, and highly verifiable, scalable, poorly coupled and easy to maintain.</p>
 
 
-## 📦 Installation
+## Installation
 
 To start using Wavescrollbar you need to install it with the package manager npm or yarn, as shown in the next section or download it directly!
 
@@ -50,7 +50,7 @@ yarn add wavescrollbar
 ```
 
 <!-- ## Getting started -->
-## ▶️ Getting started
+## Getting started
 
 <p>
 <!-- Como lo habia mencionado anteriormente, Wavescroll tambien esta disponible para las biblitecas Reactjs, Vuejs y Angular. -->
@@ -89,7 +89,7 @@ Add the javascript and css file to make it work properly!
 <script src="js/wavescrollbar-react.js"></script>
 ```
 
-## 📝 Features
+## Features
 
 | N°  | Method                 | Parameter |
 | --- | ---------------------- | --------- |
@@ -100,14 +100,14 @@ Add the javascript and css file to make it work properly!
 | 5   | setTransition          | options   |
 | 6   | setHeight              | value     |
 
-#### 📚 Method setAnimation
+#### Method setAnimation
 Example:
 ```js
 // We instantiate the animation method
 wavescrollbar.setAnimation() //It does not need parameters.
 ```
 
-#### 📚 Method setContainerBackground
+#### Method setContainerBackground
 Example:
 ``` js
 /**
@@ -119,7 +119,7 @@ const color = "#eafbea"
 wavescrollbar.setContainerBackground(color)
 ```
 
-#### 📚 Method setGradient
+#### Method setGradient
 Example:
 ```js
 /**
@@ -140,7 +140,7 @@ const options = {
 wavescrollbar.setGradient(options)
 ```
 
-#### 📚 Method setBackground
+#### Method setBackground
 Example:
 ```js
 /**
@@ -151,7 +151,7 @@ const color = "red"
 wavescrollbar.setBackground(color)
 ```
 
-#### 📚 Method setTransition
+#### Method setTransition
 Example:
 ```js
 /**
@@ -169,7 +169,7 @@ const options = {
 wavescrollbar.setTransition(options)
 ```
 
-#### 📚 Method setHeight
+#### Method setHeight
 Example:
 ```js
 /**
@@ -180,16 +180,16 @@ const height = "10px"
 wavescrollbar.setHeight(height)
 ```
 
-## ⭐ Support for
+## Support for
 
 Wavescrollbar is an open source project licensed by [MIT](LICENSE). You can grow thanks to the sponsors and the support of the amazing sponsors. If you want to join them, [contact me here](https://twitter.com/yonycalsin).
 
-## 🎩 Stay in touch
+## Stay in touch
 
 * Author [Yony Calsin](https://github.com/yonycalsin)
 * Twitter [Yony Calsin](https://twitter.com/yonycalsin)
 
-## 📜 License
+## License
 
 Wavescrollbar is [MIT licensed](LICENSE).
 
